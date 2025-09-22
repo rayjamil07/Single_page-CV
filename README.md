@@ -1,7 +1,8 @@
 # Single_page-CV
 
 This is a short project on making a single page curriculum vitae.
-<a href="https://github.com/rayjamil07/Single_page-CV">Click here to view prject</a>
+<a href="https://roadmap.sh/projects/single-page-cv">Click here to view prject page</a>
+
 
 ## Features:
   > Semantic HTML
